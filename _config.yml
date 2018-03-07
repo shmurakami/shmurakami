@@ -6,7 +6,7 @@ theme: jekyll-theme-slate
 sass:
     style: compressed
 
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-feed
 
