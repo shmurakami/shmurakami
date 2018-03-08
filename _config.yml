@@ -1,7 +1,7 @@
-name: Shaka Page
+title: Aim Developer
 description: something like my blog
-footer-links:
-    twitter: shaka0maru
+show_downloads: false
+
 theme: jekyll-theme-slate
 sass:
     style: compressed
@@ -9,9 +9,3 @@ sass:
 plugins:
   - jekyll-sitemap
   - jekyll-feed
-
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
