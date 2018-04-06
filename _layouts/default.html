@@ -10,6 +10,29 @@
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
 {% seo %}
+
+  <style>
+      .blog-parts-navigation {
+          margin-top: 15px;
+      }
+
+      .blog-parts-list {
+          list-style: none;
+          padding-left: 0;
+      }
+
+      .blog-parts-list:after {
+          content: "";
+          clear: both;
+          display: block;
+      }
+
+      .blog-parts-item {
+          float: left;
+          margin-right: 5px;
+      }
+  </style>
+
   </head>
 
   <body>
