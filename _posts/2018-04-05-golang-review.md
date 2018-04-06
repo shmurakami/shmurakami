@@ -2,7 +2,6 @@
 layout: post
 posted: 2018-04-05
 title: GoのコードをSlack経由でレビューしてもらった
-description: 
 ---
 
 このブログの記事はGitHubページの仕様に従ってJekyllで生成されてるんですが、記事のタイトルだったり投稿日だったりを管理するために
