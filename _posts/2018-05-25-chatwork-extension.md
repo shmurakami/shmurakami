@@ -1,7 +1,7 @@
 ---
 layout: post
 posted: 2018-05-25
-title: ChatWorkのExtensionを作った
+title: ChatWorkのChrome Extensionを作った
 description: 
 ---
 
