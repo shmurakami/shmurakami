@@ -6,6 +6,11 @@
     }
 }
 
+.inner {
+    max-width: none;
+    width: 60%;
+}
+
 // override
 a:hover, a:focus {
     font-weight: inherit;
